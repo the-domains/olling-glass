@@ -1,7 +1,7 @@
 name: Olling Glass
 favicon: null
-layout_spectrum: 0.8449172305408865
-typography_spectrum: 0.7669181826058775
+layout_spectrum: 1
+typography_spectrum: 0.83719
 cta:
   domain: null
   bucket: null

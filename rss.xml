@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Olling Glass]]></title>
         <description><![CDATA[Olling Glass]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/olling-glass/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 20:55:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Apr 2016 20:58:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/olling-glass/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae17c5ab-fdc1-4120-97b7-c371f72c01b6.jpg">]]></description>
-            <link>undefinedd951e04d-b071-4b01-bcdb-ccf8d6f06ae5/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/49d91069-eae5-4e2e-ac18-fdb3f720a8d7.jpg">]]></description>
+            <link>https://thegrid.ai/olling-glass/d951e04d-b071-4b01-bcdb-ccf8d6f06ae5/index.html</link>
             <guid isPermaLink="false">d951e04d-b071-4b01-bcdb-ccf8d6f06ae5</guid>
-            <pubDate>Thu, 14 Apr 2016 20:54:57 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2016 20:58:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

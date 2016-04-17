@@ -1,28 +1,39 @@
-name: Olling Glass
-favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.83719
-cta:
-  domain: null
-  bucket: null
-  version: null
+favicon: null
+name: Olling Glass
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+cta:
+  version: null
+  bucket: null
+  domain: null
 color:
+  brandStrength: 1
+  lightness: 0.3330523
+  saturation: 0.3279932
+  rhythmicContrast: 1
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.5609374034684151
-  lightness: 0.7490531359799206
-  saturation: 0.3220187902916223
-  rhythmicContrast: 0.9783219539094716
-purpose: []
+    - '#000000'
+    - '#FCFCFB'
+    - '#424242'
+    - '#929191'
+typography_spectrum: 0.6787521
